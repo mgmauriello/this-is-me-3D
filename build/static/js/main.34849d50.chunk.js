@@ -1,0 +1,2 @@
+(this["webpackJsonpgirl-working"]=this["webpackJsonpgirl-working"]||[]).push([[0],{36:function(e,t,n){},45:function(e,t,n){"use strict";n.r(t);var r=n(14),c=n(25),i=(n(36),n(26)),s=n(19);function o(){return Object(s.jsx)(i.a,{scene:"https://prod.spline.design/Hkr0Mje4K82piTDd/scene.splinecode"})}var p=document.getElementById("root");Object(c.createRoot)(p).render(Object(s.jsx)(r.StrictMode,{children:Object(s.jsx)(o,{})}))}},[[45,1,2]]]);
+//# sourceMappingURL=main.34849d50.chunk.js.map
